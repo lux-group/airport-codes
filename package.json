@@ -1,6 +1,6 @@
 {
   "name": "@luxuryescape/airport-codes",
-  "version": "1.2.0",
+  "version": "1.2.0-beta.1",
   "description": "Airport codes (IATA) and information pulled from OpenFlights.org.",
   "main": "index.js",
   "scripts": {

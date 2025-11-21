@@ -8,7 +8,7 @@
     "prepublish": "exit 0",
     "prepublishOnly": "exit 0"
   },
-  "repository": "lux-group/strummer",
+  "repository": "lux-group/airport-codes",
   "keywords": [
     "airport",
     "codes",
